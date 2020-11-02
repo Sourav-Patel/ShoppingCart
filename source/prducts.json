@@ -1,0 +1,6 @@
+{
+    “productID” : “1234”,
+    “productName” : “Product 1”,
+    “productPrice” :  2500,
+    “inStock” : true, 
+}
