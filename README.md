@@ -1,8 +1,1 @@
 # ShoppingCart
-# built application files
-
-# Local configuration file (sdk path, etc)
-local.properties
-
-# vs code settings
-.vscode/settings.json
